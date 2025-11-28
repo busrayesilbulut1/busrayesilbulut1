@@ -7,3 +7,5 @@ Merhaba! Ben **Büşra Yeşilbulut** — Fırat Üniversitesi Yazılım 1. sın�
 - 📚 Derslerim, algoritma çözümlerim ve ödev projelerim bu profilde olacak.  
 - 📹 Video ile anlatımlı çözümleri — kısa süre sonra YouTube’a yükleyeceğim.  
 - 🔗 YouTube videolarım gelince buraya linkleri eklerim.  
+[🎬 Java Ödev Çözümleri – Video](https://youtu.be/NNurd4HvshE)
+
